@@ -1,0 +1,10 @@
+criaCartao("Álgebra", "Qual é o valor de x em 2x + 3 = 7?", "x = 2");
+criaCartao("Geometria", "Quantos graus tem um ângulo reto?", "90°");
+criaCartao("Trigonometria", "Qual é o seno de 30°?", "0,5");
+criaCartao("Aritmética", "Quanto é 12 x 8?", "96");
+criaCartao("Estatística", "Qual é a média de 2, 4 e 6?", "4");
+criaCartao("Porcentagem", "Quanto é 20% de 200?", "40");
+criaCartao("Equações", "Qual é a raiz de x² = 16?", "x = ±4");
+criaCartao("Frações", "Quanto é 1/2 + 1/4?", "3/4");
+criaCartao("Funções", "O que é uma função do 1º grau?", "É uma função do tipo f(x) = ax + b");
+criaCartao("Probabilidade", "Qual a chance de sair cara ao lançar uma moeda?", "50%");
